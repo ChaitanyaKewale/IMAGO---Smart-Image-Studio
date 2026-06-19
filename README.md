@@ -2,6 +2,7 @@
 
 A professional desktop image processing application built with Python.
 
+Developer: Chaitanya Kewale INTERN ID - CITS1513
 ---
 
 ## Features
