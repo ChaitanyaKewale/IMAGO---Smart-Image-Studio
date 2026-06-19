@@ -1,4 +1,4 @@
-# Smart Image Studio 🖼️
+# IMAGO - Smart Image Studio 
 
 A professional desktop image processing application built with Python.
 
